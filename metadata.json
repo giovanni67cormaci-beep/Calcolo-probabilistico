@@ -1,0 +1,6 @@
+{
+  "name": "Transformer Explainer",
+  "description": "An interactive, visual 3D-inspired explainer for the Transformer architecture, showing tokenization, embeddings, multi-head self-attention, feed-forward networks, and next-token generation with temperature controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
